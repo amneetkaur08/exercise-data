@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Push-Up",
+    "bodyPart": "chest",
+    "equipment": "bodyweight",
+    "target": "pectorals"
+  },
+  {
+    "id": 2,
+    "name": "Squat",
+    "bodyPart": "legs",
+    "equipment": "bodyweight",
+    "target": "quadriceps"
+  },
+  {
+    "id": 3,
+    "name": "Pull-Up",
+    "bodyPart": "back",
+    "equipment": "bodyweight",
+    "target": "lats"
+  },
+  {
+    "id": 4,
+    "name": "Deadlift",
+    "bodyPart": "legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": 5,
+    "name": "Bench Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "pectorals"
+  },
+  {
+    "id": 6,
+    "name": "Shoulder Press",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "deltoids"
+  },
+  {
+    "id": 7,
+    "name": "Bicep Curl",
+    "bodyPart": "arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": 8,
+    "name": "Tricep Dip",
+    "bodyPart": "arms",
+    "equipment": "bodyweight",
+    "target": "triceps"
+  },
+  {
+    "id": 9,
+    "name": "Lunge",
+    "bodyPart": "legs",
+    "equipment": "bodyweight",
+    "target": "glutes"
+  },
+  {
+    "id": 10,
+    "name": "Plank",
+    "bodyPart": "core",
+    "equipment": "bodyweight",
+    "target": "abdominals"
+  },
+  {
+    "id": 11,
+    "name": "Mountain Climbers",
+    "bodyPart": "core",
+    "equipment": "bodyweight",
+    "target": "abdominals"
+  },
+  {
+    "id": 12,
+    "name": "Burpee",
+    "bodyPart": "full body",
+    "equipment": "bodyweight",
+    "target": "cardio"
+  },
+  {
+    "id": 13,
+    "name": "Leg Raise",
+    "bodyPart": "core",
+    "equipment": "bodyweight",
+    "target": "lower abs"
+  },
+  {
+    "id": 14,
+    "name": "Calf Raise",
+    "bodyPart": "legs",
+    "equipment": "bodyweight",
+    "target": "calves"
+  },
+  {
+    "id": 15,
+    "name": "Bent Over Row",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "upper back"
+  },
+  {
+    "id": 16,
+    "name": "Chest Fly",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals"
+  },
+  {
+    "id": 17,
+    "name": "Russian Twist",
+    "bodyPart": "core",
+    "equipment": "bodyweight",
+    "target": "obliques"
+  },
+  {
+    "id": 18,
+    "name": "Hip Thrust",
+    "bodyPart": "legs",
+    "equipment": "barbell",
+    "target": "glutes"
+  },
+  {
+    "id": 19,
+    "name": "Lat Pulldown",
+    "bodyPart": "back",
+    "equipment": "machine",
+    "target": "lats"
+  },
+  {
+    "id": 20,
+    "name": "Seated Row",
+    "bodyPart": "back",
+    "equipment": "machine",
+    "target": "upper back"
+  }
+]
